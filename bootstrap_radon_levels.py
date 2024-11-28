@@ -51,7 +51,7 @@ percent_above_200 =  100.0*((rnp > 200.0).sum()/tot_num)
 # median (=Geometric mean for Lognormal distributions)
 gm_value = np.percentile(randomvals,50)
 
-print("Gemetric mean of distribution: "+str(gm_value)+", % above 200 Bq/m3: "+str(percent_above_200))
+print("Geometric mean of distribution: "+str(gm_value)+", % above 200 Bq/m3: "+str(percent_above_200))
 ######################
 ### TEST MODEL END ###
 ######################
