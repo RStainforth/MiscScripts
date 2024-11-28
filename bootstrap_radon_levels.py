@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 
 
 # Define a Lognormal distribution with a median (geometric mean)
-# close to 84.7 Bq/m3 and for which has ~7.8% of the distribution > 200 Bq/m3
+# close to 84.7 Bq/m3 and for which has ~17.8% of the distribution > 200 Bq/m3
 # This corresponds to a lognormal representation of the data
 # collected as part of the CCRS 2024 study:
 # reference: https://crosscanadaradon.ca/survey/
